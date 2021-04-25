@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo " Nama : Fitri Puspitasari | Nim : 5108010 | Jurusan : Sistem Informasi ";
